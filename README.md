@@ -28,6 +28,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Alison](http://alison.com/)
     * [Edx](http://edx.org/)
     * [CodeSchool](http://codeschool.com/)
+    * [Python Programming] (https://pythonprogramming.net/)
 
 * Arabic
     * [Nadrus](http://nadrus.com/)
@@ -112,7 +113,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
-
+    * [Sentdex] (https://www.youtube.com/user/sentdex): python programming and machine learning
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
@@ -136,3 +137,4 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Evernote](https://appcenter.evernote.com/)
 * [Mimo](https://getmimo.com/): Learn how to code on your phone
 * [Lrn](http://lrnapp.com/): Learn to code at your convinience
+* [Trello] https://trello.com/ (time/projects managing)
